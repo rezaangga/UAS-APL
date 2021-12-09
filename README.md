@@ -16,7 +16,7 @@ Pada tahap memilih salah satu hewan liar disitu kita mengimplementasikan strateg
 # How To Run
 
 1.Clone Repository
-  $ git clone https://github.com/m/lumna.git
+  $ git clone https://github.com/rezaangga/UAS-APL
   
 2.Compile The Code
 Go to the directory where the file is stored in cmd/terminal and run the following command:
